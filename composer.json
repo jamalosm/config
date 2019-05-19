@@ -4,7 +4,12 @@
   "description": "Easy to use class for working with php configuration files",
   "keywords": [
     "config",
-    "export"
+    "export",
+    "illuminate",
+    "jamalosm",
+    "b1",
+    "bone",
+    "b-one"
   ],
   "homepage": "https://b-one.ru",
   "license": "MIT",
