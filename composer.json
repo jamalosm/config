@@ -1,0 +1,29 @@
+{
+  "name": "jamalosm/config",
+  "type": "library",
+  "description": "Config",
+  "keywords": [
+    "config",
+    "export",
+    "var_export"
+  ],
+  "homepage": "https://b-one.ru",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jamal Osmanov",
+      "email": "admin@b-one.ru"
+    }
+  ],
+  "require": {
+    "php": "^7.1.3",
+    "illuminate/config" : "^5.5,<5.9",
+    "symfony/finder": "^4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "BONE\\Config\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
