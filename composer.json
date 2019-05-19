@@ -1,11 +1,10 @@
 {
   "name": "jamalosm/config",
   "type": "library",
-  "description": "Config",
+  "description": "Easy to use class for working with php configuration files",
   "keywords": [
     "config",
-    "export",
-    "var_export"
+    "export"
   ],
   "homepage": "https://b-one.ru",
   "license": "MIT",
